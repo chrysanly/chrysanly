@@ -2,8 +2,7 @@
 - 👀 I’m interested in Gaming like Moba, SF, Ran Online, and A lot of mind games.
 - 🌱 I’m currently learning
   VueJs 3, Firebase, More Advance in PHP OOP, Laravel, CI, DotNet MVC
-- 💞️ I’m looking to collaborate on:
-  Tourismo Projects
+- 💞️ I’m looking to collaborate on other Project IDEAS
 - 📫 How to reach me?
   Email: chrys.romao21@gmail.com
 
