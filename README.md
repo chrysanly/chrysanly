@@ -1,68 +1,65 @@
-# 👋 Hi, I'm Chrysanly
+# 👋 Hi, I'm Chrysanly Roma | Senior Full-Stack Engineer
 
-I'm a **Full-Stack Developer** with a strong backend foundation in **PHP**, primarily using **Laravel**.  
-On the frontend, I work with **React.js** and **Vue.js**, creating seamless, interactive, and maintainable user experiences.  
-I’m passionate about clean architecture, scalable systems, and continuous improvement in modern web development.
+I am a Senior Full-Stack Developer with a deep-rooted expertise in architecting high-performance backend systems and enterprise applications. My engineering focus centers on bridging complex corporate logic—such as **custom ERP ecosystems, financial aging matrices, asset depreciation engines, and multi-tenant architectures**—with scalable, clean code.
 
----
-
-### 👀 Interests
-- Game development and competitive gaming (MOBA, Street Fighter, Ran Online)
-- Building efficient backend systems and API-driven applications
-- Exploring clean architecture, scalability, and performance optimization
-- Collaborating on meaningful and creative tech projects
+Specializing intensely in the **PHP/Laravel ecosystem** paired with modern, state-driven frontend frameworks (**React.js and Vue 3**).
 
 ---
 
-### 🌱 Continuous Learning
-I’m continuously learning and staying updated with the latest advancements in the **PHP ecosystem** and **modern frontend frameworks**.  
-My current focus is deepening my expertise in **React.js**, while keeping up with updates in **Laravel** and other PHP technologies.
+### ⚙️ Core Engineering Principles
+* **Architectural Patterns:** Enforcing strict SOLID principles, Service & Repository Layers, and Modular/Decoupled system architecture to reduce technical debt.
+* **Security & Control:** Designing robust API-driven authentication and advanced Role-Based Access Control (RBAC) schemas.
+* **Data & Performance Tuning:** Advanced database indexing, query profiling, and optimization for high-concurrency database environments.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Ecosystem
 
-### 🖥️ Backend
-| Framework / Tool | Description |
+### 🖥️ Enterprise Backend & Architecture
+
+| Framework / Tool | Core Application Focus |
 |------------------|-------------|
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | PHP framework for robust backend development |
-| ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white) | Lightweight PHP framework for fast development |
-| ![Yii2](https://img.shields.io/badge/Yii2-007ACC?style=for-the-badge&logo=yii&logoColor=white) | PHP framework focused on efficiency and extensibility |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | Relational database management system |
-| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | Open-source MySQL-compatible database |
-| ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) | Local development environment for PHP/MySQL |
-| ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-2D9CDB?style=for-the-badge&logoColor=white) | Database management tool for MySQL and MariaDB |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | Enterprise MVC architecture, RESTful API design, Eloquent optimization, and background queues |
+| ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white) | Legacy application modernization, refactoring, and lightweight microservices |
+| ![Yii2](https://img.shields.io/badge/Yii2-007ACC?style=for-the-badge&logo=yii&logoColor=white) | Component-based backend logic and highly extensible corporate web applications |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | Relational database modeling, schema design, and analytical transaction processing |
+| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | High-performance open-source relational database management and structure replication |
 
 ---
 
-### 💻 Frontend
-| Framework / Library | Description |
+### 💻 Modern Frontend Engineering
+
+| Framework / Library | Core Application Focus |
 |----------------------|-------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | JavaScript library for building user interfaces |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) | Progressive JavaScript framework for building UI |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | Frontend framework for responsive web design |
-| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | Utility-first CSS framework for rapid UI development |
-| ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white) | UI component library built on top of TailwindCSS and Radix UI |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) | Reactive UI development, Single Page Applications (SPAs), Composition API, and state management |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | Component-driven frontend architecture, custom hooks, and dynamic data binding |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | Utility-first styling workflows for rapid layout iteration and design-system enforcement |
+| ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white) | Radix UI accessible components tailored for enterprise dashboard applications |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | Responsive grids and UI scaffolding for corporate web portals and internal systems |
 
 ---
 
-### 🧩 Tools & Productivity
-| Tool | Description |
+### 🧩 Infrastructure, Testing & Productivity
+
+| Tool | Core Application Focus |
 |------|-------------|
-| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | API testing and collaboration platform |
-| ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) | Productivity tools for documentation and collaboration |
-| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | Project management and issue tracking tool |
-| ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) | Visual collaboration tool for task and project tracking |
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | Comprehensive API contract testing, payload mocking, and endpoint documentation |
+| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | Sprint planning, defect tracking, and Agile lifecycle management within cross-functional teams |
+| ![Git](https://shields.io) | Strict version control, feature-branch workflows, and clean atomic commit management |
 
 ---
 
-### 💞️ Collaboration
-I’m open to collaborating on **innovative web projects**, especially those involving backend architecture, API development, or modern frontend implementations.
+### 🚀 Highlighted Enterprise Projects (NDA Summary)
+* **Modular ERP Ecosystem:** Designed decoupled financial accounting layers managing asset depreciation schedules and real-time ledger auditing.
+* **Document Parsing Engine:** Engineered an automated data-extraction system converting unstructured vendor data into multi-tenant branded digital reports.
+* **CRM Communication Suite:** Refactored legacy framework architectures into real-time operational layers utilizing modern messaging and automated notification trunks.
 
 ---
 
-### 📫 Get in Touch
-📧 **Email:** [chrys.romao21@gmail.com](mailto:chrys.romao21@gmail.com)
+### 📫 Let's Connect
+* 🌐 **Interactive Portfolio:** [portfolio-v2-mu-roan.vercel.app](https://vercel.app)
+* 💼 **LinkedIn Profile:** [Your LinkedIn URL Here]
+* 📧 **Direct Professional Inquiry:** [chrys.romao21@gmail.com](mailto:chrys.romao21@gmail.com)
 
 ---
 
