@@ -58,7 +58,7 @@ Specializing intensely in the **PHP/Laravel ecosystem** paired with modern, stat
 
 ### 📫 Let's Connect
 * 🌐 **Interactive Portfolio:** [portfolio-v2-mu-roan.vercel.app](https://vercel.app)
-* 💼 **LinkedIn Profile:** [https://www.linkedin.com/in/chrysanly-john-roma-7517012a8]
+* 💼 **LinkedIn Profile:** https://www.linkedin.com/in/chrysanly-john-roma-7517012a8
 * 📧 **Direct Professional Inquiry:** [chrys.romao21@gmail.com](mailto:chrys.romao21@gmail.com)
 
 ---
