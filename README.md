@@ -1,147 +1,376 @@
-# Chrysanly Roma
-### Senior Full-Stack Developer | Enterprise Applications, ERP/CRM & Business Automation
+ <div align="center">
 
-I build reliable web applications that help businesses streamline operations, manage information, and improve their digital workflows.
+<a href="https://chrysanly.vercel.app/">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,35:172554,70:1D4ED8,100:06B6D4&text=CHRYSANLY%20ROMA&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=SENIOR%20FULL-STACK%20DEVELOPER%20%7C%20ENTERPRISE%20ENGINEERING&descSize=15&descAlignY=59&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Chrysanly Roma — Senior Full-Stack Developer"/>
+</a>
 
-I'm a **Senior Full-Stack Developer with 6 years of experience** developing business applications, enterprise systems, RESTful APIs, and responsive web interfaces. My core expertise is in **PHP, Laravel, JavaScript, and modern frontend technologies**, with experience across ERP, CRM, financial workflows, mobile integrations, and AI-assisted development.
+<a href="https://chrysanly.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/chrysanly-john-roma-7517012a8"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:chrys.romao21@gmail.com"><img src="https://img.shields.io/badge/CONTACT-Discuss%20an%20Opportunity-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-I work across the full development lifecycle—from understanding business requirements and designing application architecture to implementation, integration, optimization, and ongoing maintenance.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Enterprise+Applications+%26+ERP%2FCRM;PHP+%26+Laravel+Backend+Engineering;Full-Stack+Development+%26+API+Integration;Business+Workflow+Automation+%26+AI+Agents" alt="Areas of expertise"/>
 
-**My goal is simple: turn business requirements into practical, maintainable, and scalable software.**
+**6 YEARS OF DEVELOPMENT EXPERIENCE** · PHP & LARAVEL SPECIALIST · FULL-STACK ENGINEERING
 
-- **Core expertise:** PHP, Laravel, JavaScript, React, Vue 3, SQL
-- **Business domains:** ERP, CRM, Finance, Workflow Automation, API Integration
-- **Development approach:** Clean Code, SOLID Principles, Modular Architecture, Maintainability
-- **Currently exploring:** AI-powered development tools, autonomous agents, and desktop applications
-- **Location:** United Arab Emirates
-- **Opportunities:** Open to discussing freelance, project-based, and full-time remote opportunities worldwide
+[About](#about-me) · [Capabilities](#what-i-bring) · [Technology](#technology-stack) · [Projects](#featured-projects) · [Activity](#engineering-activity) · [Contact](#lets-build-something)
+
+</div>
 
 ---
 
-## What I Bring to a Project
+<a id="about-me"></a>
 
-| Area | What I Deliver |
-|---|---|
-| Enterprise Applications | Business systems, ERP modules, CRM workflows, and operational dashboards |
-| Backend Development | Laravel applications, RESTful APIs, authentication, authorization, and integrations |
-| Frontend Development | Responsive interfaces, interactive dashboards, and user-focused web experiences |
-| Financial Workflows | Accounting-related features, aging reports, ledger workflows, and asset depreciation |
-| System Architecture | Modular codebases, service and repository patterns, and maintainable application structures |
-| Automation & AI | AI-assisted analytics, workflow automation, document processing, and agent-based development experiments |
-| Database Engineering | Relational data modeling, SQL query optimization, and efficient data access |
-| Collaboration | Requirement analysis, problem-solving, code reviews, debugging, and cross-functional teamwork |
+## ABOUT ME
 
-## Technology Stack
+### Engineering software around real business problems.
 
-### Backend Development
+I am a **Senior Full-Stack Developer with 6 years of experience** building business applications, enterprise systems, RESTful APIs, and responsive web interfaces.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+My core specialization is **PHP, Laravel, JavaScript, and database-driven application development**. I work on systems where reliable business logic, financial accuracy, access control, and maintainable architecture matter.
 
-Developing business logic, web applications, API integrations, authentication systems, and reusable backend components.
+From modular ERP systems and financial workflows to API integrations, operational dashboards, and AI-assisted development tools, I focus on turning complex requirements into practical software that teams can maintain and businesses can depend on.
 
-### Frontend Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+#### BUSINESS IMPACT
 
-Building responsive web interfaces, reusable components, interactive dashboards, and user-friendly business applications.
+- Streamlined operational workflows
+- Digitized business processes
+- Financial reporting and calculations
+- Connected applications through APIs
+- Improved visibility through dashboards
 
-### Databases & Data Management
+</td>
+<td width="50%" valign="top">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+#### ENGINEERING PRINCIPLES
 
-Experience with relational database design, application data modeling, query optimization, and cloud-backed application data.
-
-### Mobile & Desktop Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-
-Exploring cross-platform application development, mobile API integrations, and desktop software powered by web technologies.
-
-### Tools, Testing & Engineering Practices
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-- SOLID principles and clean code practices
+- Modular and maintainable architecture
+- SOLID principles and clean code
 - Service and Repository Layer patterns
-- REST API development and integration
-- Role-Based Access Control (RBAC)
+- Secure authentication and authorization
+- Structured debugging and testing
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CORE_EXPERTISE-PHP%20%7C%20Laravel%20%7C%20JavaScript-1D4ED8?style=flat-square" alt="Core expertise"/>
+<img src="https://img.shields.io/badge/FOCUS-Enterprise%20Software-0F766E?style=flat-square" alt="Enterprise software"/>
+<img src="https://img.shields.io/badge/INTEREST-AI%20%26%20Automation-7C3AED?style=flat-square" alt="AI and automation"/>
+
+</div>
+
+<a id="what-i-bring"></a>
+
+## WHAT I BRING
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/01-BACKEND-2563EB?style=for-the-badge" alt="Backend development"/>
+
+### Backend & API Engineering
+
+Laravel applications, RESTful APIs, authentication, authorization, integrations, and reusable backend services.
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/02-ENTERPRISE-0891B2?style=for-the-badge" alt="Enterprise applications"/>
+
+### ERP, CRM & Business Systems
+
+Modular business applications, operational dashboards, customer information workflows, and enterprise functionality.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/03-FINANCE-0F766E?style=for-the-badge" alt="Financial workflows"/>
+
+### Financial Workflows
+
+Aging calculations, ledger-related functionality, asset depreciation, financial reporting, and business rules.
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/04-FULL--STACK-7C3AED?style=for-the-badge" alt="Full-stack development"/>
+
+### Frontend & User Experience
+
+Responsive interfaces, interactive dashboards, reusable components, and data-driven business applications.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/05-ARCHITECTURE-475569?style=for-the-badge" alt="Application architecture"/>
+
+### Application Architecture
+
+Modular codebases, separation of concerns, maintainability, access controls, and efficient data access.
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/06-INNOVATION-9333EA?style=for-the-badge" alt="Automation and AI"/>
+
+### Automation & AI
+
+Document processing, AI-assisted development, agent orchestration experiments, and developer productivity tools.
+
+</td>
+</tr>
+</table>
+
+<a id="technology-stack"></a>
+
+## TECHNOLOGY STACK
+
+My primary engineering focus is the PHP/Laravel ecosystem, complemented by modern frontend frameworks, relational databases, and cross-platform development technologies.
+
+<details open>
+<summary><strong>01 · Backend Engineering</strong></summary>
+
+<br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,dotnet&theme=dark" alt="Backend technologies"/>
+</div>
+
+| Technology | Application |
+|---|---|
+| PHP & Laravel | Enterprise applications, business logic, APIs |
+| Node.js | Backend services and JavaScript development |
+| CodeIgniter | PHP application development and maintenance |
+| .NET Web API | API development and integration |
+| Python | Automation and AI-related experiments |
+
+</details>
+
+<details open>
+<summary><strong>02 · Frontend Engineering</strong></summary>
+
+<br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=javascript,react,vue,angular,html,css,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
+</div>
+
+- JavaScript, AJAX, and interactive application logic
+- React and Vue 3 component-based interfaces
+- Angular application development
+- HTML5, CSS3, and SCSS
+- Tailwind CSS and Bootstrap
+
+</details>
+
+<details open>
+<summary><strong>03 · Databases & Data Engineering</strong></summary>
+
+<br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" alt="Database technologies"/>
+</div>
+
+- MySQL and MariaDB
+- PostgreSQL
+- MongoDB
+- Firebase Firestore
+- Relational data modeling, SQL query optimization, and efficient data access
+
+</details>
+
+<details>
+<summary><strong>04 · Mobile & Desktop Applications</strong></summary>
+
+<br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,tauri,ionic&theme=dark" alt="Mobile and desktop technologies"/>
+</div>
+
+- Flutter and Dart
+- Ionic
+- Tauri desktop applications
+- Mobile API integrations
+- Cross-platform application experiments
+
+</details>
+
+<details>
+<summary><strong>05 · Tools, Testing & Engineering Practices</strong></summary>
+
+<br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,visualstudio&theme=dark" alt="Engineering tools"/>
+</div>
+
+- Git, GitHub, and GitLab
+- Postman and REST API testing
 - PHPUnit and application testing
-- Version control, code reviews, and collaborative development
-- Agile workflows and issue tracking
+- SOLID principles and clean code
+- Service and Repository Layer patterns
+- Role-Based Access Control (RBAC)
+- Code reviews, debugging, and issue tracking
 
----
+</details>
 
-## Selected Projects & Engineering Experience
+<a id="featured-projects"></a>
+
+## FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/chrysanly/sinag-agents">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chrysanly&repo=sinag-agents&theme=github_dark&hide_border=true" width="49%" alt="Sinag Agents project card"/>
+</a><a href="https://github.com/chrysanly/crm-pdf-parser">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chrysanly&repo=crm-pdf-parser&theme=github_dark&hide_border=true" width="49%" alt="CRM PDF Parser project card"/>
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SINAG AGENTS
+
+<img src="https://img.shields.io/badge/PROJECT-AI%20%26%20DEVELOPER%20TOOLS-7C3AED?style=flat-square" alt="AI developer tools"/>
+
+An ongoing project exploring AI agent orchestration and coordinated software development workflows.
+
+**Engineering focus**
+
+- Multi-agent task coordination
+- Developer workflow automation
+- Human approval and oversight
+- Desktop-based development tooling
+
+<a href="https://github.com/chrysanly/sinag-agents"><strong>EXPLORE PROJECT →</strong></a>
+
+</td>
+<td width="50%" valign="top">
+
+### CRM PDF PARSER
+
+<img src="https://img.shields.io/badge/PROJECT-DOCUMENT%20PROCESSING-0891B2?style=flat-square" alt="Document processing"/>
+
+A document-processing project focused on extracting useful information from CRM-related PDF documents.
+
+**Engineering focus**
+
+- PDF information extraction
+- Structured data processing
+- Document-driven workflows
+- Reduced repetitive manual work
+
+<a href="https://github.com/chrysanly/crm-pdf-parser"><strong>EXPLORE PROJECT →</strong></a>
+
+</td>
+</tr>
+</table>
 
 ### Enterprise ERP & Business Management
 
-Developing modular enterprise applications supporting operational dashboards, finance workflows, mobile customer information systems, and API-driven services.
+Professional experience includes modular ERP development involving operational dashboards, finance workflows, mobile customer information systems, and API-driven services.
 
-**Focus areas:** Financial reporting, aging calculations, asset depreciation, access control, operational visibility, and third-party payment integrations.
+Areas of contribution include financial aging calculations, asset depreciation, role-based permissions, customer information workflows, and payment integration work involving Tabby and Tamara.
 
-### CRM & Document Processing
+*Some professional implementations are confidential. These descriptions summarize relevant experience without disclosing proprietary code or business information.*
 
-Building tools and application workflows that help transform business documents and structured information into usable digital outputs.
+<a id="engineering-activity"></a>
 
-**Focus areas:** Data extraction, document processing, report generation, and reducing repetitive manual work.
+## ENGINEERING ACTIVITY
 
-### AI & Developer Automation
+<div align="center">
 
-Exploring AI-assisted development workflows, agent orchestration, and desktop tools that coordinate software engineering tasks.
+<a href="https://github.com/chrysanly">
+<img src="https://github-readme-stats.vercel.app/api?username=chrysanly&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics"/>
+</a><a href="https://github.com/chrysanly">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysanly&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="GitHub language statistics"/>
+</a>
 
-**Focus areas:** Multi-agent workflows, human approval checkpoints, developer productivity, and practical automation.
+<a href="https://github.com/chrysanly">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chrysanly&theme=github-dark-blue&hide_border=true" width="85%" alt="GitHub contribution streak"/>
+</a>
 
-*Some professional projects are subject to confidentiality obligations. The descriptions above summarize relevant experience without disclosing proprietary implementation details.*
+<br>
+
+<a href="https://github.com/chrysanly?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+</a>
+
+</div>
+
+<sub>GitHub statistics are provided by external services and may not include private contributions. Language percentages reflect repository composition, not a direct measurement of proficiency.</sub>
+
+<a id="lets-build-something"></a>
+
+## LET'S BUILD SOMETHING
+
+I am interested in collaborating with businesses, product teams, and engineering organizations that value reliable software, practical problem-solving, and long-term maintainability.
+
+Whether the requirement is a new business application, an ERP/CRM enhancement, an API integration, or an automation workflow, I can contribute across implementation, integration, debugging, and ongoing development.
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### FREELANCE
+
+Project-based engineering, integrations, and application improvements.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### REMOTE WORK
+
+Open to discussing part-time and full-time opportunities worldwide.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### TEAM COLLABORATION
+
+Full-stack implementation, code reviews, and continuous product development.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### HAVE A PROJECT OR OPPORTUNITY?
+
+<a href="https://chrysanly.vercel.app/">
+<img src="https://img.shields.io/badge/01-VIEW%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio"/>
+</a>
+<a href="mailto:chrys.romao21@gmail.com">
+<img src="https://img.shields.io/badge/02-EMAIL%20ME-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+</a>
+<a href="https://www.linkedin.com/in/chrysanly-john-roma-7517012a8">
+<img src="https://img.shields.io/badge/03-CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+**Chrysanly Roma**  
+Senior Full-Stack Developer | PHP · Laravel · Enterprise Applications
+
+United Arab Emirates · Open to global opportunities
 
 ---
 
-## Featured Repositories
+<sub>Building software with clear logic, practical solutions, and long-term maintainability in mind.</sub>
 
-Explore my public repositories for examples of my development work, experiments, and ongoing projects.
-
-- **[Sinag Agents](https://github.com/chrysanly/sinag-agents)** — AI agent orchestration and developer workflow experiments.
-- **[CRM PDF Parser](https://github.com/chrysanly/crm-pdf-parser)** — A document-processing project focused on extracting information from CRM-related PDFs.
-
-Visit my [GitHub repositories](https://github.com/chrysanly?tab=repositories) to explore more.
-
----
-
-## Let's Connect
-
-I'm interested in working with teams and businesses that value reliable software, practical problem-solving, and continuous improvement.
-
-Whether you need an enterprise web application, an API integration, a business workflow, or help improving an existing system, I'm open to discussing how I can contribute.
-
-- **Portfolio:** [chrysanly.vercel.app](https://chrysanly.vercel.app/)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chrysanly-john-roma-7517012a8)
-- **GitHub:** [github.com/chrysanly](https://github.com/chrysanly)
-- **Email:** [chrys.romao21@gmail.com](mailto:chrys.romao21@gmail.com)
-
-*My portfolio is continuously evolving, with ongoing development, design improvements, and project information updates.*
-
----
-
-*Building software with clear logic, practical solutions, and long-term maintainability in mind.*
+</div>
